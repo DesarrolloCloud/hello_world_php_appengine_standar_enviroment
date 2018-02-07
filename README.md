@@ -22,12 +22,12 @@ Standart Enviroment
 3.-Colocar en el browser http://localhost:8099.
 
 ### Ejecucion del aplicativo en GCP App Engine
-1.- Dirigirte a la carpeta donde has clonado el codigo de la aplicación
-2.- gcloud init (para configurar el proyecto al que vas a subir el aplicativo)
-3.- gcloud app deploy (subes el aplicativo a app engine)
-4.- gcloud browse (para que obtengas la URL de internet del aplicativo)
+1. Dirigirte a la carpeta donde has clonado el codigo de la aplicación
+2. gcloud init (para configurar el proyecto al que vas a subir el aplicativo)
+3. gcloud app deploy (subes el aplicativo a app engine)
+4. gcloud browse (para que obtengas la URL de internet del aplicativo)
 
-### Consultas y Asesorias
+### Asesorias Privadas
 
 **Contactate conmigo escribiendome a wilsonnm22@gmail.com**
 
